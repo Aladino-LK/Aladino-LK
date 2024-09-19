@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aladino-LK
+- 👀 I’m interested in learning more about Python Automation and Data Science
+- 🌱 I’m currently learning through 100 Days of Code
+- 💞️ I’m looking to collaborate on analyzing Tennis Data
+- 📫 How to reach me @Aladino-LK
